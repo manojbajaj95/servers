@@ -726,6 +726,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Splunk](https://github.com/jkosik/mcp-server-splunk)** - Golang MCP server for Splunk (lists saved searches, alerts, indexes, macros...). Supports SSE and STDIO.
 - **[Spotify](https://github.com/varunneal/spotify-mcp)** - This MCP allows an LLM to play and use Spotify.
 - **[Spring Initializr](https://github.com/hpalma/springinitializr-mcp)** - This MCP allows an LLM to create Spring Boot projects with custom configurations. Instead of manually visiting start.spring.io, you can now ask your AI assistant to generate projects with specific dependencies, Java versions, and project structures.
+- **[Supabase](https://github.com/universal-mcp/supabase)** - Supabase MCP server from **[agentr](https://agentr.dev/)** that provides support for managing cloud resources on supabase platform like database branches, sso provider, etc.
 - **[SSH](https://github.com/AiondaDotCom/mcp-ssh)** - Agent for managing and controlling SSH connections.
 - **[SSH](https://github.com/classfang/ssh-mcp-server)** - An MCP server that can execute SSH commands remotely, upload files, download files, and so on.
 - **[Standard Korean Dictionary](https://github.com/privetin/stdict)** - Search the dictionary using API
